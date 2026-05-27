@@ -17,6 +17,6 @@ open power apps
 
 click apps
 
-clic import canvas app
+click import canvas app
 
 upload Mountain Rescue.app
