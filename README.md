@@ -8,19 +8,15 @@ README.md — setup instructions
 
 ## 2. Prerequisites
 
-access to power apps
-
-access to sharepoint
-
-ensure you have permission to app/data 
+have recieved the sharepoint list from us and the app from us if not then not going to function correctly
 
 
 ## 3. Step 1: Import the App
 
-Go to Power Apps
+open power apps
 
-Select Apps
+click apps
 
-Choose Import canvas app
+clic import canvas app
 
-Upload Mountain Rescue.app
+upload Mountain Rescue.app
