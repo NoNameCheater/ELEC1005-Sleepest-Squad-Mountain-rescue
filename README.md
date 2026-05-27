@@ -2,7 +2,7 @@
 
 ## 1. Files in This Repository
 
-app/Mountain Rescue.app — the Power Apps application
+app/Mountain Rescue.msapp — the Power Apps application
 
 README.md — setup instructions
 
@@ -19,4 +19,4 @@ click apps
 
 click import canvas app
 
-upload Mountain Rescue.app
+upload Mountain Rescue.msapp
