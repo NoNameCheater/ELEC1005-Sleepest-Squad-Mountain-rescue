@@ -2,9 +2,9 @@
 
 ## 1. Files in This Repository
 
-app/Mountain Rescue.msapp — the Power Apps application
+app/Mountain Rescue.msapp - the Power Apps application
 
-README.md — setup instructions
+README.md - setup instructions
 
 ## 2. Prerequisites
 
